@@ -1,1 +1,0 @@
-Pictures and videos you embed in your README.md and any other pictures that may be helpful.
