@@ -17,5 +17,5 @@ Usermods for Various Armchair Engineers projects.
 
 In the [/files](files) folder there is a README.md file that has a table to list of all the usermods. When you add yours, update that table with information about your mod so that everyone can find your awesome or atrocious work.
 
-## [Show me the mods already!](files/_template/README.md)
+## [Show me the mods already!](files/README.md)
 
