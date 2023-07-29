@@ -11,9 +11,9 @@ You may want to build a 1->2 fan splitter PCB or splice the two 4010 fans togeth
 
 ## BOM
 
-Two m3x5x4 heatset inserts
-Two m3x8 SHCS
-Two nylon washers
+* Two m3x5x4 heatset inserts
+* Two m3x8 SHCS
+* Two nylon washers
 
 ## Assembly
 
