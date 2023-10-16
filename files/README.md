@@ -10,4 +10,4 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | Stevan    | Xol-Toolhead         | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN)                                                       | Umbilical mounts for Xol-Toolhead - PG7, PG9                                   |
 | 10suo     | Xol-Toolhead         | [CPC_MR_12ML](Xol-Toolhead/CPC_MR_12ML)                                                                   | Carriage and belt clip adapted to the non MGN12H size of CPC MR 12ML rails     |
 | Kimarru   | Xol-Toolhead         | [MeowXol_Faceplate](Xol-Toolhead/MeowXol_Faceplate)                                                       | Faceplate for Xol-Toolhead that has cat ears and a paw logo                    |
-
+| 10suo     | Xol-Toolhead         | [EBB36_G2SA_Mount](Xol-Toolhead/EBB36_G2SA_Mount)                                                         | Mount for EBB36 CAN board on G2SA extruder                                     |
