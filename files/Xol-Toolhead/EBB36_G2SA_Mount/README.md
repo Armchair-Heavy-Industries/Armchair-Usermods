@@ -11,6 +11,7 @@ Ensure that the tab of the mount slides in between the spacer and the end of the
 
 ## Changelog
 
+*2023-11-09* Updated the spacer STL to be the correct length for the G2 BOM standoffs that are 20mm.
 *2023-10-20* Realigned the strain relief as the original model was based on v1.0 of EBB36. Also removed the button cutouts since newer boards to not have them underneath the USB connector. Made the spacer ID slightly smaller to better stay in place while mounting.
 
 ## Credits
