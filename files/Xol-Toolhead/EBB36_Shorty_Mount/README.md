@@ -1,7 +1,7 @@
 # EBB36 Sherpa "Shorty" Mount
 ### by neon.blue
 
-This alternate mount shortens the vertical height needed, which is ideal for a Voron Trident or similar printer without much space above the toolhead.
+This alternate mount shortens the vertical height needed, which is ideal for a Voron Trident or similar printer without much space above the toolhead. This ends up decreasing the mount height by about 20mm, resulting in about 75mm from the upper panel to the top of the strain relief on a stock build Trident.
 
 <img src="Images/height.jpg" width="640">
 
