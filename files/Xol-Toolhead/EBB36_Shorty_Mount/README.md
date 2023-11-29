@@ -6,11 +6,13 @@ This alternate mount shortens the vertical height needed, which is ideal for a V
 ### Features
  * Shorter strain relief height
  * Triple zip tie mount
- * Additional strain relief on molex connection
+ * Molex connector isn't subject to head movement as much
 
 ### Stats
  * Height compared to stock: -20mm
  * Height from top of strain relief to upper panel on a stock build Trident: 75mm
+
+<br>
 
 <img src="Images/height.jpg" width="640">
 
