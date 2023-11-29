@@ -1,13 +1,25 @@
 # EBB36 Sherpa "Shorty" Mount
 ### by neon.blue
 
-This alternate mount shortens the vertical height needed, which is ideal for a Voron Trident or similar printer without much space above the toolhead. This ends up decreasing the mount height by about 20mm, resulting in about 75mm from the upper panel to the top of the strain relief on a stock build Trident.
+This alternate mount shortens the vertical height needed, which is ideal for a Voron Trident or similar printer without much space above the toolhead.
+
+### Features
+ * Shorter strain relief height
+ * Triple zip tie mount
+ * Additional strain relief on molex connection
+
+### Stats
+ * Height compared to stock: -20mm
+ * Height from top of strain relief to upper panel on a stock build Trident: 75mm
 
 <img src="Images/height.jpg" width="640">
 
-### Shorty mount versus official mount
+#### Shorty mount versus official mount
 
 <img src="Images/comparison.jpg" width="400">
+
+## Installation Notes
+When utilizing Igus Chainflex or similar, strip the shielding back to just below where the cable exits the strain relief. Most Chainflex type cables cannot do the bend required by this mount, but with the shielding removed the bare wires will do it without issue. Be sure to keep the Chainflex shielding where the zip ties hold the cable against the strain relief.
 
 ## Credits
 
