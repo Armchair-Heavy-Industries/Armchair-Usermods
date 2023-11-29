@@ -3,11 +3,11 @@
 
 This alternate mount shortens the vertical height needed, which is ideal for a Voron Trident or similar printer without much space above the toolhead.
 
-![Assembled mod](Images/height.jpg)
+<img src="Images/height.jpg" width="400">
 
 ### Shorty mount versus official mount
 
-![Comparison](Images/comparison.jpg | width=300)
+<img src="Images/comparison.jpg" width="300">
 
 ## Credits
 
