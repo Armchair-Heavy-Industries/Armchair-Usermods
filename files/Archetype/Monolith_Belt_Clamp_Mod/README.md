@@ -1,4 +1,4 @@
-# Archetype_Rail_Carriage_Clamp_Mod
+# Archetype Rail Carriage Clamp Mod
 A User Mod to the Armchair Heavy Industries Archetype Rail Carriage mount to clamp 9mm belts directly 
 
 Currenlty it only supports the monolith Gantry style belt path
