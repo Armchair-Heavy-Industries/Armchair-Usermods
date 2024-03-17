@@ -6,5 +6,5 @@ This is a STEP file of my mono-carriage for Xol. It is only compatible with 6mm 
 
 It moves the entire toolhead 3mm closer to the x-rail, improving performance of the system while providing more clearance to doors and idlers. This may require tweaking your probe mount if your probe ends up too close to the nozzle.
 
-![Rear]([/Images/Image%201.jpg](https://github.com/Armchair-Heavy-Industries/AE-Usermods/blob/main/files/Xol-Toolhead/Aluminum_Xol_Mono-Carriage/Images/Image%201.jpg)https://github.com/Armchair-Heavy-Industries/AE-Usermods/blob/main/files/Xol-Toolhead/Aluminum_Xol_Mono-Carriage/Images/Image%201.jpg)
-![Front]([/Images/Image%202.jpg](https://github.com/Armchair-Heavy-Industries/AE-Usermods/blob/main/files/Xol-Toolhead/Aluminum_Xol_Mono-Carriage/Images/Image%201.jpg)https://github.com/Armchair-Heavy-Industries/AE-Usermods/blob/main/files/Xol-Toolhead/Aluminum_Xol_Mono-Carriage/Images/Image%202.jpg)
+![Rear](Images/Image%201.png)
+![Front](Images/Image%202.png)
