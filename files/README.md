@@ -13,6 +13,7 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | kyledavis417 | Xol-Toolhead | [Beefy_Xol_Ducks](Xol-Toolhead/Beefy_Xol_Ducks/) | Ducts for the xol toolhead with stronger walls and various tweaks |
 | Mastur_Mynd | Archetype | [Archetype Klicky Docks](Archetype/Klicky_Dock_Arms) | Purpose build Klicky arms for all Archetype sizes |
 | | Archetype | [Archetype for Ants](Archetype/Archetype_For_Ants) | MGN9H X carriage and belt clips altered to fit most [Printers for Ants](https://3dprintersforants.com/) |
+| | Archetype | [V2 Z Chain Relocation](Archetype/V2_Z_Chain_Relocation) | Gets the Z chain out of the way of your extruders! |
 | MegaMooks | Xol-Toolhead | [Afterburner_Toolhead_PCB_Mount](Xol-Toolhead/Afterburner_Toolhead_PCB_Mount) | A Mount for the Hartk afterburner PCB to use with Xol-Toolhead on Xol-Carriage |
 | ruiqimao | Xol-Toolhead | [Xol_PCB](Xol-Toolhead/Xol_PCB) | Carabiner-compatible toolhead PCB for Xol-Toolhead |
 | Stevan | Xol-Toolhead | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN) | Umbilical mounts for Xol-Toolhead - PG7, PG9 |
