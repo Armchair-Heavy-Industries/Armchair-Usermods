@@ -18,3 +18,4 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | ruiqimao | Xol-Toolhead | [Xol_PCB](Xol-Toolhead/Xol_PCB) | Carabiner-compatible toolhead PCB for Xol-Toolhead |
 | Stevan | Xol-Toolhead | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN) | Umbilical mounts for Xol-Toolhead - PG7, PG9 |
 | TheScarecrow | Monolith Belt Clamp Mod | [Monolith_Belt_Clamp_Mod](Archetype/Monolith_Belt_Clamp_Mod) | Rail Mount mod for Monolith belt path and stronger belt tensions |
+| str1pes | Microsherpa/Carabiner | [Archetype MicroSherpa/Carabiner Strain Relief](Archetype/MicroSherp_Carabiner_Strain_Relief) | Strain relief that fits onto the existing Microsherpa/Carabiner mount |
