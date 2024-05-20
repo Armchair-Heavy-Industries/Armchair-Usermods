@@ -4,12 +4,13 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | Creator | Mod for | Link | Description |
 | --- | --- | --- | --- |
 | *Various | Mantis_Xol2`Archive` | [usermods folder on archived repo](https://github.com/Armchair-Engineering/Mantis-Xol/tree/main/usermods) | Just a link to the old mods so they don't get forgotten. |
-| 10suo | Xol-Toolhead | [CPC_MR_12ML](Xol-Toolhead/CPC_MR_12ML) | Faceplate for Xol-Toolhead that has cat ears and a paw logo |
-| | Xol-Toolhead | [EBB36_G2SA_Mount](Xol-Toolhead/EBB36_G2SA_Mount) | Carriage and belt clip adapted to the non MGN12H size of CPC MR 12ML rails |
+| 10suo | Xol-Toolhead | [CPC_MR_12ML](Xol-Toolhead/CPC_MR_12ML) | Carriage and belt clip adapted to the non MGN12H size of CPC MR 12ML rails |
+| | Xol-Toolhead | [CPC_MR_12ML pre-release](Xol-Toolhead/CPC_MR_12ML/pre-release) | Carriage and belt clip adapted to the non MGN12H size of CPC MR 12ML rails for Xol pre-release clips |
+| | Xol-Toolhead | [EBB36_G2SA_Mount](Xol-Toolhead/EBB36_G2SA_Mount) | Mount for EBB36 CAN board on G2SA extruder |
 | CallumRD1 | Xol-Toolhead | [Aluminum_Xol_Mono-Carriage](Xol-Toolhead/Aluminum_Xol_Mono-Carriage) | Xol Aluminum mono-carriage for MGN12H rails and 6mm Belts |
 | DW Tas | Xol-Toolhead | [BambuLab HE Mount for Xol Toolhead](Xol-Toolhead/BambuLab_Xol_HE_Mount) | Hotend mount for BambuLab hotends to work with pre-release Xol |
 | | Fun | [Xol-Toolhead Tree Ornament](Xol-Toolhead/Xol-Extras/Ornaments/) | A mini Xol-Toolhead to hang on your tree for the holiday season |
-| Kimarru | Xol-Toolhead | [MeowXol_Faceplate](Xol-Toolhead/MeowXol_Faceplate) | Mount for EBB36 CAN board on G2SA extruder |
+| Kimarru | Xol-Toolhead | [MeowXol_Faceplate](Xol-Toolhead/MeowXol_Faceplate) | Faceplate for Xol-Toolhead that has cat ears and a paw logo |
 | kyledavis417 | Xol-Toolhead | [Beefy_Xol_Ducks](Xol-Toolhead/Beefy_Xol_Ducks/) | Ducts for the xol toolhead with stronger walls and various tweaks |
 | Mastur_Mynd | Archetype | [Archetype Klicky Docks](Archetype/Klicky_Dock_Arms) | Purpose build Klicky arms for all Archetype sizes |
 | | Archetype | [Archetype for Ants](Archetype/Archetype_For_Ants) | MGN9H X carriage and belt clips altered to fit most [Printers for Ants](https://3dprintersforants.com/) |
