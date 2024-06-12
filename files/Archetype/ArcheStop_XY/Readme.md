@@ -2,7 +2,7 @@
 
 Long speech short: This adds endstops (X and Y) to your Archetype. That's it, bye!
 
-... Okay a few more words. This is small printed piece that goes on the Rail Core screws that are at the bottom rear of the carriage; the ones with the M5 Washers. However you simply replace the FHCS with some longer BHCS or SHCS (I used 20mm ones). You can mount the switches with two M2x10mm screws.
+... Okay a few more words. This is a small printed piece that goes on the Rail Core screws that are at the bottom rear of the carriage; the ones with the M5 Washers. However you simply replace the FHCS with some longer BHCS or SHCS (I used 20mm ones) and place the mount ontop of the washers. You can mount the switches with two M2x10mm screws.
 
 Depending on your gatry the switches can trigger on the xy joints and/or the AB motor mounts. If not, I added some Trigger Blocks you can mount with one screw on the profiles (M3 for 1515 and M3/M5 for 2020).
 
