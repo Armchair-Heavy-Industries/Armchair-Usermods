@@ -8,11 +8,12 @@ Depending on your gatry the switches can trigger on the xy joints and/or the AB 
 
 ### BOM
 
+```
 1-2x Omron (X and/or Y)
 2x M3 18-10mm SHCS or BHCS
 2x M2x10mm self tapping (per switch)
----
 M3 or M5 + T-Nut for mounting the tigger block
+```
 
 ### Pictures
 
