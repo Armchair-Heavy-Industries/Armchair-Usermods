@@ -10,7 +10,8 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | CallumRD1 | Xol-Toolhead | [Aluminum_Xol_Mono-Carriage](Xol-Toolhead/Aluminum_Xol_Mono-Carriage) | Xol Aluminum mono-carriage for MGN12H rails and 6mm Belts |
 | DW Tas | Xol-Toolhead | [Heatset HE Mounts for Xol Toolhead](Xol-Toolhead/Heatset_Xol_HE_Mount) | Hotend mounts for Xol-Toolhead that use M2.5 heatsets instead of screws into plastic |
 | | Xol-Toolhead | [BambuLab HE Mount for Xol Toolhead](Xol-Toolhead/BambuLab_Xol_HE_Mount) | Hotend mount for BambuLab hotends to work with pre-release Xol |
-| | Xol-Toolhead | [BambuLab HE Mount for Xol Toolhead](Xol-Toolhead/BambuLab_Xol_HE_Mount) | Hotend | | Fun | [Xol-Toolhead Tree Ornament](Xol-Toolhead/Xol-Extras/Ornaments/) | A mini Xol-Toolhead to hang on your tree for the holiday season |
+| | Xol-Carriage | [Xol-Carriage for Monolith Gantry](Xol-Toolhead/Monolith_Xol-Carriage) | Xol-Carriage with different belt system for Monolith Gantry |
+| | Fun | [Xol-Toolhead Tree Ornament](Xol-Toolhead/Xol-Extras/Ornaments/) | A mini Xol-Toolhead to hang on your tree for the holiday season |
 | KevinAkaSam | Archetype | [ArcheStop XY](Archetype\ArcheStop_XY) | Endstop Mount for your Archetype giving you Endstops in X and Y without reprinting |
 | Kimarru | Xol-Toolhead | [MeowXol_Faceplate](Xol-Toolhead/MeowXol_Faceplate) | Faceplate for Xol-Toolhead that has cat ears and a paw logo |
 | kyledavis417 | Xol-Toolhead | [Beefy_Xol_Ducks](Xol-Toolhead/Beefy_Xol_Ducks/) | Ducts for the xol toolhead with stronger walls and various tweaks |
