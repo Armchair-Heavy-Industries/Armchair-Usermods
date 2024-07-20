@@ -37,7 +37,9 @@ BOM:
 
 Print settings:
 -Recommend 6/6/6 with >80% infill 
+
 -ABS as a minimum with anything better if possible
+
 -Classic slicer with 0.4mm nozzle
 
 Assembly:
