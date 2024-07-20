@@ -31,8 +31,11 @@ The current version only supports MGN12H but this may expand to MGN9H in the fut
 
 BOM:
 6  M2  3mm x 3.6mm x 3.6mm heat sets
+
 4  M2x 12mm SHCS
+
 2  M2x 8mm  SHCS
+
 2  M3x 45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
 
 Print settings:
