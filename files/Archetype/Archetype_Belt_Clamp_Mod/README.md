@@ -36,9 +36,9 @@ BOM:
 2  M3x 45mm smooth pin or M3X45 SHCS  <- Smooth pins are prefered and you should have them from the stock build of Archetype
 
 Print settings:
-Recommend 6/6/6 with >80% infill 
-ABS as a minimum with anything better if possible
-Classic slicer with 0.4mm nozzle
+-Recommend 6/6/6 with >80% infill 
+-ABS as a minimum with anything better if possible
+-Classic slicer with 0.4mm nozzle
 
 Assembly:
 
