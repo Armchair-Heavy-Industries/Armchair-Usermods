@@ -17,15 +17,7 @@ Monolith Belt Path
 	-MGN9H
 	-MGN12H
 	-MGN12H IDEX
-
-
-This replaces the universal belt clip with belt clamps that restrain the belt directly to the rail carriage itself as well as providing a excess belt loop location
-
-I personally found that the stock belt mount lacked the ability to adjusting individual belt slack as well as ensure that belt pretension slack for mods like Monolith, which has very limited tension range
-
-During testing this style of belt clamp was tested up to 40kg of weight hanging from the belts with no slip occuring with the test rail carriage mount plastic failing during a shock loading of that 40kg before any belt slip was obeserved.
-
-The current version only supports MGN12H but this may expand to MGN9H in the future 
+ 
 ![image](https://github.com/Thescarecow/Archetype_Rail_Carriage_Clamp_Mod/assets/148969384/5477a4ad-cc65-496d-adfc-6ceb5ca58e95)
 
 
