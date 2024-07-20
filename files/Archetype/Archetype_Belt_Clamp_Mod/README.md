@@ -46,14 +46,20 @@ Assembly:
 
 First Side
 -Place the belts into the recease and push the pin through from the top and feed the belt back over itself
+
 -Tighten the 3 M2 bolts evenly, you only need to tighen them just enough to restrain the belt in place, deforming the belt clamp is a sign its too much.
+
 
 Last side
 -Place the belts into the recess and push the pin through from the top and feed the belt back over itself
+
 -lightly tighten this sides set of m3 bolts where it just grabs the belt
+
 -At this stage its possible to take the slack out of the belts and slighlty preload them, ensure you do not rack your gantry while doing this!
+
 -Once a suitible amount of preloading is applied, tighten as the previous side
 
 -Feed the excess belt back through the clamp to ensure a tidy setup
+
 
 Make sure to recheck belt tension 
