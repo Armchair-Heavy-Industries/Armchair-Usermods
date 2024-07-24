@@ -10,7 +10,8 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | CallumRD1 | Xol-Toolhead | [Aluminum_Xol_Mono-Carriage](Xol-Toolhead/Aluminum_Xol_Mono-Carriage) | Xol Aluminum mono-carriage for MGN12H rails and 6mm Belts |
 | DW Tas | Xol-Toolhead | [Heatset HE Mounts for Xol Toolhead](Xol-Toolhead/Heatset_Xol_HE_Mount) | Hotend mounts for Xol-Toolhead that use M2.5 heatsets instead of screws into plastic |
 | | Xol-Toolhead | [BambuLab HE Mount for Xol Toolhead](Xol-Toolhead/BambuLab_Xol_HE_Mount) | Hotend mount for BambuLab hotends to work with pre-release Xol |
-| | Xol-Toolhead | [BambuLab HE Mount for Xol Toolhead](Xol-Toolhead/BambuLab_Xol_HE_Mount) | Hotend | | Fun | [Xol-Toolhead Tree Ornament](Xol-Toolhead/Xol-Extras/Ornaments/) | A mini Xol-Toolhead to hang on your tree for the holiday season |
+| | Xol-Carriage | [Xol-Carriage for Monolith Gantry](Xol-Toolhead/Monolith_Xol-Carriage) | Xol-Carriage with different belt system for Monolith Gantry |
+| | Fun | [Xol-Toolhead Tree Ornament](Xol-Toolhead/Xol-Extras/Ornaments/) | A mini Xol-Toolhead to hang on your tree for the holiday season |
 | Evelyn Dooley | Archetype | [Peopoly Lancer Metlzone Mount](Archetype/Peopoly_Lancer_Meltzone_Mount/) | Hotend + extruder mount for the Peopoly Lancer Melt Zone long hot end. |
 | KevinAkaSam | Archetype | [ArcheStop XY](Archetype\ArcheStop_XY) | Endstop Mount for your Archetype giving you Endstops in X and Y without reprinting |
 | Kimarru | Xol-Toolhead | [MeowXol_Faceplate](Xol-Toolhead/MeowXol_Faceplate) | Faceplate for Xol-Toolhead that has cat ears and a paw logo |
@@ -21,5 +22,5 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | MegaMooks | Xol-Toolhead | [Afterburner_Toolhead_PCB_Mount](Xol-Toolhead/Afterburner_Toolhead_PCB_Mount) | A Mount for the Hartk afterburner PCB to use with Xol-Toolhead on Xol-Carriage |
 | ruiqimao | Xol-Toolhead | [Xol_PCB](Xol-Toolhead/Xol_PCB) | Carabiner-compatible toolhead PCB for Xol-Toolhead |
 | Stevan | Xol-Toolhead | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN) | Umbilical mounts for Xol-Toolhead - PG7, PG9 |
-| TheScarecrow | Monolith Belt Clamp Mod | [Monolith_Belt_Clamp_Mod](Archetype/Monolith_Belt_Clamp_Mod) | Rail Mount mod for Monolith belt path and stronger belt tensions |
+| TheScarecrow | Archetype Belt Clamp Mod | [Archetype_Belt_Clamp_Mod](Archetype/Archetype_Belt_Clamp_Mod) | Rail Mount mod for Stock and Monolith belt paths and stronger belt tensions |
 | str1pes | Microsherpa/Carabiner | [Archetype MicroSherpa/Carabiner Strain Relief](Archetype/MicroSherp_Carabiner_Strain_Relief) | Strain relief that fits onto the existing Microsherpa/Carabiner mount |
