@@ -7,6 +7,11 @@ The screws that go through the clips are M3x16. BHCS is probably best for lower 
 
 These are the square nuts I used (M3): https://www.aliexpress.com/item/1005001612157787.html
 
+
+There is now a BETA 2 in the STLs folder.
+![BETA2](image.png)
+`It has a new two-piece clip design that should be nicer on the belts. It also moves the toolhead forward 2mm to improve clearances around the X/Y joints.`
+
 I have added some loops to hold the belts in place while you push the clip and belt into the side of the carriage and tighten the screws. Everything else is per normal Xol Carriage build. 
 
 *The indents in the clips go to the back. 
