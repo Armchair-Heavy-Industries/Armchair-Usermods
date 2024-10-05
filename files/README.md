@@ -22,7 +22,7 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | | Archetype | [V2 Z Chain Relocation](Archetype/V2_Z_Chain_Relocation) | Gets the Z chain out of the way of your extruders! |
 | MegaMooks | Xol-Toolhead | [Afterburner_Toolhead_PCB_Mount](Xol-Toolhead/Afterburner_Toolhead_PCB_Mount) | A Mount for the Hartk afterburner PCB to use with Xol-Toolhead on Xol-Carriage |
 | ruiqimao | Xol-Toolhead | [Xol_PCB](Xol-Toolhead/Xol_PCB) | Carabiner-compatible toolhead PCB for Xol-Toolhead |
-| stacking | Archetype | [Atrocity duct alternative](Archetype\Atrocity_Duct_Alternative) | Different duct for atrocity
+| stacking | Archetype | [Atrocity duct alternative](Archetype/Atrocity_Duct_Alternative) | Different duct for atrocity
 | Stevan | Xol-Toolhead | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN) | Umbilical mounts for Xol-Toolhead - PG7, PG9 |
 | TheScarecrow | Archetype Belt Clamp Mod | [Archetype_Belt_Clamp_Mod](Archetype/Archetype_Belt_Clamp_Mod) | Rail Mount mod for Stock and Monolith belt paths and stronger belt tensions |
 | str1pes | Microsherpa/Carabiner | [Archetype MicroSherpa/Carabiner Strain Relief](Archetype/MicroSherp_Carabiner_Strain_Relief) | Strain relief that fits onto the existing Microsherpa/Carabiner mount |
