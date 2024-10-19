@@ -7,6 +7,11 @@ The screws that go through the clips are M3x16. BHCS is probably best for lower 
 
 These are the square nuts I used (M3): https://www.aliexpress.com/item/1005001612157787.html
 
+### Print Settings
+Must use 0.2mm layer height. <br/>
+Voron like settings will be fine. at least 1.5mm total perimiter thickness (4x 0.4mm wall or 3x 0.5mm wall) 5x top/bottom layers. 40% infill.
+
+
 
 There is now a BETA 2 in the STLs folder.
 ![BETA2](image.png)
