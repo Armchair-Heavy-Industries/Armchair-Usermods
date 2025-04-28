@@ -16,4 +16,4 @@ Thanks to tetsu97 for creating the G2WW https://github.com/tetsu97/WristWatch-G2
 
 ### Pictures
 
-<img src="Images/1.jpg"  width="49%"/>
+<img src="Images/1.png"  width="49%"/>
