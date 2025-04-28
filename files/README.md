@@ -25,4 +25,4 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | Stevan | Xol-Toolhead | [Umbilical-Non_CAN](Xol-Toolhead/Umbilical-Non_CAN) | Umbilical mounts for Xol-Toolhead - PG7, PG9 |
 | TheScarecrow | Archetype Belt Clamp Mod | [Archetype_Belt_Clamp_Mod](Archetype/Archetype_Belt_Clamp_Mod) | Rail Mount mod for Stock and Monolith belt paths and stronger belt tensions |
 | str1pes | Microsherpa/Carabiner | [Archetype MicroSherpa/Carabiner Strain Relief](Archetype/MicroSherp_Carabiner_Strain_Relief) | Strain relief that fits onto the existing Microsherpa/Carabiner mount |
-| axg20202 | Archetype | [G2WW Block Mount For Experimental Core](Archetype/G2WW_Extruder_Block_Experimental_Core/) | Experimental Core extruder mount for the Galileo2 Wristwatch |
+| axg20202 | Archetype | [G2WW Block Mount For Experimental Core](Archetype/G2WW_Extruder_Block_Experimental_Core/) | Experimental Core extruder mount for the Galileo2 Wristwatch (Updated April 2025) |
