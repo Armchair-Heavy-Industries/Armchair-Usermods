@@ -26,4 +26,4 @@ Navigate the mods here in the folder structure, or look for what your after in t
 | TheScarecrow | Archetype Belt Clamp Mod | [Archetype_Belt_Clamp_Mod](Archetype/Archetype_Belt_Clamp_Mod) | Rail Mount mod for Stock and Monolith belt paths and stronger belt tensions |
 | str1pes | Microsherpa/Carabiner | [Archetype MicroSherpa/Carabiner Strain Relief](Archetype/MicroSherp_Carabiner_Strain_Relief) | Strain relief that fits onto the existing Microsherpa/Carabiner mount |
 | axg20202 | Archetype | [G2WW Block Mount For Experimental Core](Archetype/G2WW_Extruder_Block_Experimental_Core/) | Experimental Core extruder mount for the Galileo2 Wristwatch |
-| WoodWorker| A4T  |[A4T Dragon Volcano UHF with CrossBow cutter](https://github.com/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files)| Tested |
+| WoodWorker| A4T  |[A4T Dragon Rapido UHF - Crossbow fit](https://github.com/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files/A4T%20CrossBow) | Update cowling to support the crossbow cutter  |
